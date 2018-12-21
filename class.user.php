@@ -64,7 +64,7 @@
 
                 $to = $row->email;
                 $subject = 'Password request';
-                $from = 'no-reply@example.org';
+                $from = 'florisbastiaan@gmail.com';
                  
                 // To send HTML mail, the Content-type header must be set
                 $headers  = 'MIME-Version: 1.0' . "\r\n";
